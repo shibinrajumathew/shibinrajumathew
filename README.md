@@ -127,12 +127,27 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 
 ## Projects
 
-### [Project Name]
-- **Description:** A brief overview of what the project is about and its impact.
-- **Technologies:** AWS (CloudWatch, Lambda, etc.), [Other Tools]
-- **Repository:** [Link to GitHub Repository](https://github.com/yourusername/project-name)
-- **Demo:** [Link to Live Demo](https://yourprojectdemo.com) *(if available)*
+### [k8s cluster setup]
+- **Description:** Code for setting up Kubernetes with Docker for frontend and backend applications. Using Nginx ingress controller by helm, For bare metal server.
+- **Technologies:** Terraform, Ansible, Jenkins, Docker, K8s
+- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/k8s-cluster-setup)
 
+### [TickSim-UI]
+- **Description:** ReactJs app - virtual trading with d3js and aws cognito.
+- **Technologies:** React.js, AWS Cognito, D3js
+- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/TickSim-UI)
+
+### [Easy-E-commerce-MS]
+- **Description:** Nodejs Application - REST API -for easy e-commerce.
+- **Technologies:** Nodejs, Express.js, Swagger, MongoDB, RestAPI.
+- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/Easy-E-commerce-MS)
+  
+### [Easy-Blogger]
+- **Description:** Java based simple blog rest api.
+- **Technologies:** Java Spring, Hibernate, ORM, Mysql.
+- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/Easy-Blogger)
+
+  
 ---
 
 ## Certifications & Awards
