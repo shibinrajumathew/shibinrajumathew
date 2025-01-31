@@ -35,7 +35,7 @@ Notably, I led projects that reduced onboarding time by 40% and enhanced transac
 Work Eligibility: Currently residing in the UK with a dependent visa, eligible to work full-time..
 
 - 🔭 **Most Recent Work:** cloud management using DevOps tools.
-- 🌱 **Currently Learning:** Preparing for the AWS Developer Associate certification.
+- 🌱 **Currently Learning:** Preparing for the AWS certification.
 - 👯 **Looking to Collaborate On:** Projects in DevOps and Software Development.
 - 📫 How to reach me: **[shibinrajumathew@yahoo.com]**
 - 😄 Pronouns: **[he]**
