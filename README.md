@@ -38,7 +38,6 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 - 🌱 **Currently Learning:** Preparing for the AWS certification.
 - 👯 **Looking to Collaborate On:** Projects in DevOps and Software Development.
 - 📫 How to reach me: **[shibinrajumathew@yahoo.com]**
-- 😄 Pronouns: **[he]**
 
 ---
 
