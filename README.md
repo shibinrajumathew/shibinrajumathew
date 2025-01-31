@@ -11,34 +11,33 @@ By combining a strong foundation in React.js, Node.js, and AWS with DevOps strat
 
 Core Skills:
 
-Frontend Development:
-Proficient in React.js, Node.js, TypeScript, Javascript and Express.js, crafting responsive user interfaces integrated with DevOps pipelines for faster delivery.
+- Frontend Development:
+  Proficient in React.js, Node.js, TypeScript, Javascript and Express.js, crafting responsive user interfaces integrated with DevOps pipelines for faster delivery.
 
-Backend Development:
-Expert in MERN stack, Node.js, Spring Boot, and Hibernate, building scalable server-side apps with AWS as core infrastructure.
+- Backend Development:
+  Expert in MERN stack, Node.js, Spring Boot, and Hibernate, building scalable server-side apps with AWS as core infrastructure.
 
-Cloud Technologies:
-Extensive experience with AWS (EC2, S3, Lambda) and leveraging Kubernetes for container orchestration using Docker.
+- Cloud Technologies:
+  Extensive experience with AWS (EC2, S3, Lambda) and leveraging Kubernetes for container orchestration using Docker.
 
-Infrastructure as Code (IaC):
-Proficient in Terraform and Ansible for infrastructure management, with deep expertise in Docker and Kubernetes for orchestration.
+- Infrastructure as Code (IaC):
+  Proficient in Terraform and Ansible for infrastructure management, with deep expertise in Docker and Kubernetes for orchestration.
 
-CI/CD Practices:
-Experienced with Jenkins and Docker to automate pipelines using CI/CD and Kubernetes for deployment.
+- CI/CD Practices:
+  Experienced with Jenkins and Docker to automate pipelines using CI/CD and Kubernetes for deployment.
 
-Database Technologies:
-Strong knowledge of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimized for Node.js applications.
+- Database Technologies:
+  Strong knowledge of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimized for Node.js applications.
 
 Notably, I led projects that reduced onboarding time by 40% and enhanced transaction speeds by 30% on an e-commerce platform using React.js, Node.js, and AWS.
 
 Work Eligibility: Currently residing in the UK with a dependent visa, eligible to work full-time..
 
-- 🔭 I’m currently working on: **[Current Project or Focus Area]**
-- 🌱 I’m currently learning: **[New Technologies, Tools, or Languages]**
-- 👯 I’m looking to collaborate on: **[Project Types or Areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **[he/him, she/her, they/them, etc.]**
-- ⚡ Fun fact: **[Something unique about you]**
+- 🔭 I’m last worked: **[Social network in realestative Cloud managmeent using DevOps tools]**
+- 🌱 I’m currently learning: **[AWS developer associate]**
+- 👯 I’m looking to collaborate on: **[DevOps, Software development]**
+- 📫 How to reach me: **[shibinrajumathew@yahoo.com]**
+- 😄 Pronouns: **[he]**
 
 ---
 
@@ -103,8 +102,7 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 
 ## Certifications & Awards
 
-- **AWS Certified Solutions Architect – Associate** *(Month Year)*
-- **[Other Certification or Award Name]** *(Month Year)*
+- **Modern Application Development** *(Oct 2016)*
 
 ---
 
@@ -113,12 +111,12 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 I love connecting with other tech enthusiasts! Feel free to reach out if you'd like to collaborate, have any questions, or just want to say hi.
 
 - **Email:** [shibinrajumathew@yahoo.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/shibinrajumathew)
-- **Stackoverflow:** [@yourhandle](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shibinrajumathew)
+- **Stackoverflow:** [](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
 
 ---
 
-> “Your favorite quote or a personal motto can go here.”
+
 
 ---
 
