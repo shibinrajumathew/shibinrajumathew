@@ -162,7 +162,7 @@ I love connecting with other tech enthusiasts! Feel free to reach out if you'd l
 
 - **Email:** [shibinrajumathew@yahoo.com]
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shibinrajumathew)
-- **Stackoverflow:** [](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
+- **Stackoverflow:** [Reputation - 900+](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
 
 ---
 
