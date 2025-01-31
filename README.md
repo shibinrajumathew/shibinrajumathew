@@ -3,7 +3,35 @@
 
 ## About Me
 
-I'm a passionate [Your Profession, e.g., "Cloud Engineer", "Full-Stack Developer", etc.] with experience in building, monitoring, and optimizing applications on AWS. My journey in tech has allowed me to work on cloud monitoring, event-driven architectures, and automation, among other cutting-edge solutions.
+I bring a unique blend of development expertise and DevOps strategies to every project I work on. My strength lies in not just building applications, but also in streamlining deployment processes and ensuring that applications are scalable and reliable from day one.
+
+I’ve developed web, mobile, and desktop applications for teams across the Middle East, USA, and India, always focusing on optimizing workflows and integrating modern practices. What sets me apart is my ability to merge full stack development with DevOps tools and practices like Kubernetes, Docker, Ansible, and Terraform. I leverage these technologies to automate infrastructure, deploy quickly, and ensure continuous integration and delivery (CI/CD) with minimal downtime and maximum efficiency.
+
+By combining a strong foundation in React.js, Node.js, and AWS with DevOps strategies, I help businesses deploy faster and more reliably. My focus is on reducing bottlenecks and ensuring seamless collaboration between development and operations teams, which results in better-performing applications and more efficient workflows.
+
+Core Skills:
+
+Frontend Development:
+Proficient in React.js, Node.js, TypeScript, Javascript and Express.js, crafting responsive user interfaces integrated with DevOps pipelines for faster delivery.
+
+Backend Development:
+Expert in MERN stack, Node.js, Spring Boot, and Hibernate, building scalable server-side apps with AWS as core infrastructure.
+
+Cloud Technologies:
+Extensive experience with AWS (EC2, S3, Lambda) and leveraging Kubernetes for container orchestration using Docker.
+
+Infrastructure as Code (IaC):
+Proficient in Terraform and Ansible for infrastructure management, with deep expertise in Docker and Kubernetes for orchestration.
+
+CI/CD Practices:
+Experienced with Jenkins and Docker to automate pipelines using CI/CD and Kubernetes for deployment.
+
+Database Technologies:
+Strong knowledge of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimized for Node.js applications.
+
+Notably, I led projects that reduced onboarding time by 40% and enhanced transaction speeds by 30% on an e-commerce platform using React.js, Node.js, and AWS.
+
+Work Eligibility: Currently residing in the UK with a dependent visa, eligible to work full-time..
 
 - 🔭 I’m currently working on: **[Current Project or Focus Area]**
 - 🌱 I’m currently learning: **[New Technologies, Tools, or Languages]**
