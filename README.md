@@ -52,7 +52,7 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 - **Scripting:** Bash Shell scripting.
 - **Version Control:** Git, GitHub, Bitbucket.
 - **Agile Development:** Sprint planning, iterative development, cross-functional collaboration.
-- **API Development & Integration:** REST, GraphQL.
+- **API Development & Integration:** REST.
 - **Database Management:** PostgreSQL, MySQL, MongoDB.
 - **Performance Optimization & Scalability:** System tuning, load balancing, multi-region deployments.
 
