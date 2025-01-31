@@ -1,6 +1,5 @@
 # Hi, I'm Shibin Raju Mathew! 👋
 
-![GitHub Banner](https://avatars.githubusercontent.com/u/22034175?v=4)
 
 ## About Me
 
@@ -85,9 +84,9 @@ I'm a passionate [Your Profession, e.g., "Cloud Engineer", "Full-Stack Developer
 
 I love connecting with other tech enthusiasts! Feel free to reach out if you'd like to collaborate, have any questions, or just want to say hi.
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [shibinrajumathew@yahoo.com]
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/shibinrajumathew)
+- **Stackoverflow:** [@yourhandle](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
 
 ---
 
