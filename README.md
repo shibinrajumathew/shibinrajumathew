@@ -11,31 +11,32 @@ By combining a strong foundation in React.js, Node.js, and AWS with DevOps strat
 
 Core Skills:
 
-- Frontend Development:
-  Proficient in React.js, Node.js, TypeScript, Javascript and Express.js, crafting responsive user interfaces integrated with DevOps pipelines for faster delivery.
+- **Frontend Development:**  
+  Proficient in React.js, Node.js, TypeScript, JavaScript, and Express.js, crafting responsive user interfaces integrated with DevOps pipelines for faster delivery.
 
-- Backend Development:
-  Expert in MERN stack, Node.js, Spring Boot, and Hibernate, building scalable server-side apps with AWS as core infrastructure.
+- **Backend Development:**  
+  Expert in MERN stack, Node.js, Spring Boot, and Hibernate, building scalable server-side applications with AWS as core infrastructure.
 
-- Cloud Technologies:
+- **Cloud Technologies:**  
   Extensive experience with AWS (EC2, S3, Lambda) and leveraging Kubernetes for container orchestration using Docker.
 
-- Infrastructure as Code (IaC):
+- **Infrastructure as Code (IaC):**  
   Proficient in Terraform and Ansible for infrastructure management, with deep expertise in Docker and Kubernetes for orchestration.
 
-- CI/CD Practices:
+- **CI/CD Practices:**  
   Experienced with Jenkins and Docker to automate pipelines using CI/CD and Kubernetes for deployment.
 
-- Database Technologies:
+- **Database Technologies:**  
   Strong knowledge of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimized for Node.js applications.
+
 
 Notably, I led projects that reduced onboarding time by 40% and enhanced transaction speeds by 30% on an e-commerce platform using React.js, Node.js, and AWS.
 
 Work Eligibility: Currently residing in the UK with a dependent visa, eligible to work full-time..
 
-- 🔭 I’m last worked: **[Social network in realestative Cloud managmeent using DevOps tools]**
-- 🌱 I’m currently learning: **[AWS developer associate]**
-- 👯 I’m looking to collaborate on: **[DevOps, Software development]**
+- 🔭 **Most Recent Work:** Built a social network focused on cloud management using DevOps tools.
+- 🌱 **Currently Learning:** Preparing for the AWS Developer Associate certification.
+- 👯 **Looking to Collaborate On:** Projects in DevOps and Software Development.
 - 📫 How to reach me: **[shibinrajumathew@yahoo.com]**
 - 😄 Pronouns: **[he]**
 
@@ -43,43 +44,84 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 
 ## Skills & Technologies
 
-### Cloud & DevOps
-- **AWS Services:** CloudWatch, X-Ray, CloudTrail, EventBridge, Lambda, EC2, RDS, etc.
-- **Monitoring & Logging:** Metrics analysis, alarm configuration, log aggregation.
-- **Infrastructure as Code:** Terraform, CloudFormation.
+## Technical Skills (Hard Skills)
+- **Full Stack Development:** React.js, Node.js, JavaScript.
+- **Cloud Infrastructure & Security:** AWS (EC2, S3, Route 53, Lightsail, IAM, VPC), Terraform, Kubernetes.
+- **Server-Side Development:** Node.js, Express.js, API design, microservices architecture.
+- **DevOps & Automation:** Docker, Ansible, Jenkins, CI/CD Pipelines.
+- **Scripting:** Bash Shell scripting.
+- **Version Control:** Git, GitHub, Bitbucket.
+- **Agile Development:** Sprint planning, iterative development, cross-functional collaboration.
+- **API Development & Integration:** REST, GraphQL.
+- **Database Management:** PostgreSQL, MySQL, MongoDB.
+- **Performance Optimization & Scalability:** System tuning, load balancing, multi-region deployments.
 
-### Programming & Scripting
-- **Languages:** Python, JavaScript, Bash, etc.
-- **Frameworks/Tools:** Node.js, React, etc. *(Add as applicable)*
+## Soft Skills
+- **Decision-Making & Problem-Solving:** Confidently analyze situations and provide evidence-based solutions.
+- **Relationship Building & Mentoring:** Foster strong collaboration with teams and mentor junior developers.
+- **Guidance & Enthusiasm:** Provide guidance to team members with a proactive and enthusiastic approach.
+- **Commitment & Confidence:** Take ownership of projects with a results-driven mindset.
+- **Flexibility & Quick Learning:** Adapt to new technologies and changing project needs efficiently.
+- **Security Awareness:** Implement best practices for cloud and application security.
+- **Effective Communication:** Engage professionally with clients and teams to ensure a positive work environment.
 
-### Other Tools & Technologies
-- **Version Control:** Git & GitHub
-- **CI/CD:** Jenkins, GitHub Actions, etc.
-- **Containers:** Docker, Kubernetes *(if applicable)*
 
 ---
 
 ## Experience
 
-### [Your Current/Most Recent Role]
-**[Company Name]** • *[Month Year – Present]*  
-- **Role:** [Your Job Title]
-- **Key Responsibilities:**
-  - Developed and maintained AWS CloudWatch dashboards and alarms to monitor critical applications.
-  - Implemented distributed tracing using AWS X-Ray to optimize performance in microservices architectures.
-  - Managed AWS CloudTrail to ensure compliance and secure API usage.
-  - Automated cloud workflows with AWS EventBridge, streamlining event-driven processes.
-  - Collaborated with cross-functional teams to troubleshoot and resolve production issues.
+### Full Stack Developer and Cloud Practitioner  
+**Self Employed – vveeo.com**  
+*Nov 2019 – Nov 2024 (5+ yrs)*
 
-### [Previous Role or Project]
-**[Previous Company or Project Name]** • *[Month Year – Month Year]*  
-- **Role:** [Your Job Title/Role]
-- **Key Responsibilities:**
-  - Designed and deployed scalable infrastructure using AWS services.
-  - Created custom monitoring solutions that improved application reliability.
-  - Led initiatives on optimizing cloud costs and resource allocation.
+#### Part Digitizer and Kubernetes Cluster Automation  
+**Role:** Lead Developer
 
-*(Add more roles or projects as needed)*
+**Part Digitizer:**  
+- Implemented an offline desktop application for 3D printing using Electron.js, React.js, Redux, Tailwind CSS, Node.js, and Express.js.  
+- Designed a high-performing architecture that improved system performance and responsiveness.  
+- Led a team of 6 developers, overseeing the addition of initial features and the transition to a microservices architecture, thereby enhancing scalability and maintainability.  
+- Integrated AWS RDS for database management, ensuring data consistency and availability even for offline use.
+
+**Kubernetes Cluster Automation:**  
+- Built an automated Kubernetes (K8s) cluster using Ansible, Terraform, Docker, Nginx, Jenkins, and Helm to streamline the deployment and scaling of both frontend and backend applications.  
+- Designed a reusable K8s template that enhanced cluster management and reduced setup time.  
+- Leveraged Jenkins for continuous integration and deployment (CI/CD) and integrated Helm for simplified application packaging and deployment, ensuring scalable, maintainable infrastructure.
+
+#### Cloud-based ERP and Social Networking Solutions  
+**Role:** Full Stack Developer & DevOps Engineer
+
+- **Real Estate Social Network:**  
+  - Migrated and deployed a real estate social network across AWS regions using Docker and RabbitMQ.  
+  - Optimized performance with EC2 and Route 53 for scalability, load balancing, and failover, ensuring high availability and reduced latency.
+
+- **ERP Solutions:**  
+  - Deployed and maintained a cloud-based ERP on AWS with 99.9% uptime.  
+  - Built custom solutions using Python, Jinja, and JavaScript.  
+  - Automated infrastructure with Terraform and Ansible and enhanced monitoring with Nagios to improve resilience and performance.
+
+---
+
+### Full Stack Software Developer  
+**Mozanta Technologies (now Valoriz Digital)**  
+*Oct 2018 – Oct 2019 (1 yr and 1 month)*
+
+#### E-commerce Systems
+
+**Carrier Management System:**  
+- Developed a robust Carrier Management System for an e-commerce platform using React, Node.js, Express.js, and MongoDB.  
+- Improved delivery efficiency and supported over 200 daily active users by integrating system components via REST APIs for seamless communication.  
+- Reduced maintenance time by 20% through a well-structured, documented codebase and rigorous testing to ensure reliability and scalability.
+
+**Order Management System (OMS):**  
+- Contributed to the development of the Order Management System using the MERN stack and Java Spring Boot microservices.  
+- Added new features, fixed bugs, and improved real-time order tracking, enhancing user experience and operational efficiency by 25%.  
+- Reduced issue resolution time by 30% and maintained high code quality through thorough documentation and adherence to coding standards.
+
+**Loyalty Points & Cards Integration:**  
+- Developed a comprehensive loyalty points integration module that optimized the user loyalty experience through advanced data handling.  
+- Facilitated a 15% increase in repeat purchases, thereby enhancing overall customer loyalty.
+
 
 ---
 
@@ -90,13 +132,6 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 - **Technologies:** AWS (CloudWatch, Lambda, etc.), [Other Tools]
 - **Repository:** [Link to GitHub Repository](https://github.com/yourusername/project-name)
 - **Demo:** [Link to Live Demo](https://yourprojectdemo.com) *(if available)*
-
-### [Another Project Name]
-- **Description:** A brief summary of the project focusing on the challenges you solved.
-- **Technologies:** [List of Technologies]
-- **Repository:** [Link to GitHub Repository](https://github.com/yourusername/project-name)
-
-*(Add additional projects as needed)*
 
 ---
 
