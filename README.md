@@ -151,6 +151,8 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 
 ## Certifications & Awards
 
+- **AWS Certified Developer – Associate** *(March 2025)*
+- **AWS Cloud Quest: Cloud Practitioner** *(Feb 2025)*
 - **Modern Application Development** *(Oct 2016)*
 
 ---
