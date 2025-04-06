@@ -126,6 +126,11 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 
 ## Projects
 
+### DevOps-Monitoring-Stack
+- **Description:** This repository sets up a DevOps Monitoring Stack consisting of Nagios, Prometheus, and Grafana using Docker containers, and is designed for seamless monitoring and alerting of your infrastructure and applications.
+- **Technologies:**  ansible, docker, docker-compose, grafana, nagios, prometheus
+- **Repository:** [Link to GitHub Repository]([https://github.com/shibinrajumathew/k8s-cluster-setup](https://github.com/shibinrajumathew/DevOps-Monitoring-Stack))
+- 
 ### k8s cluster setup
 - **Description:** Code for setting up Kubernetes with Docker for frontend and backend applications. Using Nginx ingress controller by helm, For bare metal server.
 - **Technologies:** Terraform, Ansible, Jenkins, Docker, K8s
