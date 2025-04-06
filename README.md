@@ -129,27 +129,27 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 ### DevOps-Monitoring-Stack
 - **Description:** This repository sets up a DevOps Monitoring Stack consisting of Nagios, Prometheus, and Grafana using Docker containers, and is designed for seamless monitoring and alerting of your infrastructure and applications.
 - **Technologies:**  ansible, docker, docker-compose, grafana, nagios, prometheus
-- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/DevOps-Monitoring-Stack)
+- **Repository:** [Link](https://github.com/shibinrajumathew/DevOps-Monitoring-Stack)
 - 
 ### k8s cluster setup
 - **Description:** Code for setting up Kubernetes with Docker for frontend and backend applications. Using Nginx ingress controller by helm, For bare metal server.
 - **Technologies:** Terraform, Ansible, Jenkins, Docker, K8s
-- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/k8s-cluster-setup)
+- **Repository:** [Link](https://github.com/shibinrajumathew/k8s-cluster-setup)
 
 ### TickSim-UI
 - **Description:** ReactJs app - virtual trading with d3js and aws cognito.
 - **Technologies:** React.js, AWS Cognito, D3js
-- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/TickSim-UI)
+- **Repository:** [Link](https://github.com/shibinrajumathew/TickSim-UI)
 
 ### Easy-E-commerce-MS
 - **Description:** Nodejs Application - REST API -for easy e-commerce.
 - **Technologies:** Nodejs, Express.js, Swagger, MongoDB, RestAPI.
-- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/Easy-E-commerce-MS)
+- **Repository:** [Link](https://github.com/shibinrajumathew/Easy-E-commerce-MS)
   
 ### Easy-Blogger
 - **Description:** Java based simple blog rest api.
 - **Technologies:** Java Spring, Hibernate, ORM, Mysql.
-- **Repository:** [Link to GitHub Repository](https://github.com/shibinrajumathew/Easy-Blogger)
+- **Repository:** [Link](https://github.com/shibinrajumathew/Easy-Blogger)
 
   
 ---
