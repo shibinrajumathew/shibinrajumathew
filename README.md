@@ -28,7 +28,10 @@ Core Skills:
 
 - **Database Technologies:**  
   Strong knowledge of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimized for Node.js applications.
-
+  
+- **Monitoring, Visualization and Analyze Logs**
+  Self-taught skills: Grafana, Prometheus, Elastic search, Logstash, Kibana Stack – acquired through hands-on experience with personal hobby projects.
+  
 
 Notably, I led projects that reduced onboarding time by 40% and enhanced transaction speeds by 30% on an e-commerce platform using React.js, Node.js, and AWS.
 
