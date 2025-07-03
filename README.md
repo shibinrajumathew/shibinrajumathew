@@ -70,7 +70,7 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 ## Experience
 
 ### Full Stack Software Development Team Lead & DevOps Specialis 
-**Self Employed – vveeo.com**  
+**remote – vveeo.com**  
 *Nov 2019 – Nov 2024 (5+ yrs)*
 
 #### Part Digitizer and Kubernetes Cluster Automation  
