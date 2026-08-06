@@ -1,178 +1,157 @@
-# Hi, I'm Shibin Raju Mathew! 👋
+# Hi, I'm Shibin Raju Mathew 👋
 
+Full Stack Developer & DevOps Specialist blending application development with cloud infrastructure, automation, and CI/CD to ship scalable, reliable software.
+
+📫 **Email:** shibinrajumathew@yahoo.com &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/shibinrajumathew)** &nbsp;|&nbsp; 💬 **[Stack Overflow (900+ reputation)](https://stackoverflow.com/users/8006192/shibin-raju-mathew)**
+
+---
+
+## 📑 Table of Contents
+
+1. [About Me](#about-me)
+2. [Skills & Technologies](#skills--technologies)
+   - [Technical Skills](#technical-skills)
+   - [Soft Skills](#soft-skills)
+3. [Experience](#experience)
+   - [vveeo.com — Team Lead & DevOps Specialist](#vveeocom--full-stack-software-development-team-lead--devops-specialist)
+   - [Mozanta Technologies — Full Stack Developer](#mozanta-technologies-now-valoriz-digital--full-stack-software-developer)
+4. [Projects](#projects)
+5. [Certifications & Awards](#certifications--awards)
+6. [Get in Touch](#get-in-touch)
+
+---
 
 ## About Me
 
-I bring a unique blend of development expertise and DevOps strategies to every project I work on. My strength lies in not just building applications, but also in streamlining deployment processes and ensuring that applications are scalable and reliable from day one.
+I bring a unique blend of development expertise and DevOps strategy to every project I work on. My strength lies not just in building applications, but in streamlining deployment processes and ensuring applications are scalable and reliable from day one.
 
-I’ve developed web, mobile, and desktop applications for teams across the Middle East, USA, and India, always focusing on optimizing workflows and integrating modern practices. What sets me apart is my ability to merge full stack development with DevOps tools and practices like Kubernetes, Docker, Ansible, and Terraform. I leverage these technologies to automate infrastructure, deploy quickly, and ensure continuous integration and delivery (CI/CD) with minimal downtime and maximum efficiency.
+I've developed web, mobile, and desktop applications for teams across the Middle East, USA, and India — always focused on optimizing workflows and integrating modern practices. What sets me apart is combining full stack development with DevOps tools like Kubernetes, Docker, Ansible, and Terraform to automate infrastructure, deploy quickly, and maintain CI/CD with minimal downtime and maximum efficiency.
 
-By combining a strong foundation in React.js, Node.js, and AWS with DevOps strategies, I help businesses deploy faster and more reliably. My focus is on reducing bottlenecks and ensuring seamless collaboration between development and operations teams, which results in better-performing applications and more efficient workflows.
+By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strategy, I help businesses deploy faster and more reliably — reducing bottlenecks and improving collaboration between development and operations teams.
 
-Core Skills:
+**Highlights:**
+- Led projects that reduced onboarding time by **40%**
+- Enhanced transaction speeds by **30%** on an e-commerce platform (React.js, Node.js, AWS)
 
-- **Frontend Development:**  
-  Proficient in React.js, Node.js, TypeScript, JavaScript, and Express.js, crafting responsive user interfaces integrated with DevOps pipelines for faster delivery.
-
-- **Backend Development:**  
-  Expert in MERN stack, Node.js, Spring Boot, and Hibernate, building scalable server-side applications with AWS as core infrastructure.
-
-- **Cloud Technologies:**  
-  Extensive experience with AWS (EC2, S3, Lambda) and leveraging Kubernetes for container orchestration using Docker.
-
-- **Infrastructure as Code (IaC):**  
-  Proficient in Terraform and Ansible for infrastructure management, with deep expertise in Docker and Kubernetes for orchestration.
-
-- **CI/CD Practices:**  
-  Experienced with Jenkins and Docker to automate pipelines using CI/CD and Kubernetes for deployment.
-
-- **Database Technologies:**  
-  Strong knowledge of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, optimized for Node.js applications.
-  
-- **Monitoring, Visualization and Analyze Logs**  
-  Self-taught skills: Grafana, Prometheus, Elastic search, Logstash, Kibana Stack – acquired through hands-on experience with personal hobby projects.
-  
-
-Notably, I led projects that reduced onboarding time by 40% and enhanced transaction speeds by 30% on an e-commerce platform using React.js, Node.js, and AWS.
-
-Work Eligibility: Currently residing in the UK with a dependent visa, eligible to work full-time..
-
-- 🔭 **Most Recent Work:** cloud management using DevOps tools.
-- 🌱 **Currently Learning:** Preparing for the AWS certification.
-- 👯 **Looking to Collaborate On:** Projects in DevOps and Software Development.
-- 📫 How to reach me: **[shibinrajumathew@yahoo.com]**
+**Status:**
+- 🔭 Currently working on: cloud management with DevOps tools
+- 🌱 Currently learning: preparing for AWS certification
+- 👯 Looking to collaborate on: DevOps and software development projects
+- 🌍 Work eligibility: Based in the UK on a dependent visa, eligible to work full-time
 
 ---
 
 ## Skills & Technologies
 
-## Technical Skills (Hard Skills)
-- **Full Stack Development:** React.js, Node.js, JavaScript.
-- **Cloud Infrastructure & Security:** AWS (EC2, S3, Route 53, Lightsail, IAM, VPC), Terraform, Kubernetes.
-- **Server-Side Development:** Node.js, Express.js, API design, microservices architecture.
-- **DevOps & Automation:** Docker, Ansible, Jenkins, CI/CD Pipelines.
-- **Scripting:** Bash Shell scripting.
-- **Version Control:** Git, GitHub, Bitbucket.
-- **Agile Development:** Sprint planning, iterative development, cross-functional collaboration.
-- **API Development & Integration:** REST.
-- **Database Management:** PostgreSQL, MySQL, MongoDB.
-- **Performance Optimization & Scalability:** System tuning, load balancing, multi-region deployments.
+### Technical Skills
 
-## Soft Skills
-- **Decision-Making & Problem-Solving:** Confidently analyze situations and provide evidence-based solutions.
-- **Relationship Building & Mentoring:** Foster strong collaboration with teams and mentor junior developers.
-- **Guidance & Enthusiasm:** Provide guidance to team members with a proactive and enthusiastic approach.
-- **Commitment & Confidence:** Take ownership of projects with a results-driven mindset.
-- **Flexibility & Quick Learning:** Adapt to new technologies and changing project needs efficiently.
-- **Security Awareness:** Implement best practices for cloud and application security.
-- **Effective Communication:** Engage professionally with clients and teams to ensure a positive work environment.
+| Category | Technologies |
+|---|---|
+| **Full Stack Development** | React.js, Node.js, TypeScript, JavaScript, Express.js |
+| **Backend Development** | MERN stack, Spring Boot, Hibernate |
+| **Cloud Infrastructure & Security** | AWS (EC2, S3, Lambda, Route 53, Lightsail, IAM, VPC) |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **CI/CD** | Jenkins, Docker-based pipelines |
+| **Scripting** | Bash |
+| **Version Control** | Git, GitHub, Bitbucket |
+| **Database Management** | PostgreSQL, MySQL, MongoDB |
+| **API Development** | REST, microservices architecture |
+| **Monitoring & Observability** | Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana) — self-taught via hands-on hobby projects |
+| **Performance & Scalability** | System tuning, load balancing, multi-region deployments |
+| **Agile Development** | Sprint planning, iterative development, cross-functional collaboration |
 
+### Soft Skills
+
+- **Decision-Making & Problem-Solving** — confidently analyze situations and provide evidence-based solutions
+- **Relationship Building & Mentoring** — foster strong collaboration and mentor junior developers
+- **Guidance & Enthusiasm** — proactive support for team members
+- **Commitment & Confidence** — ownership of projects with a results-driven mindset
+- **Flexibility & Quick Learning** — adapt efficiently to new technologies and changing requirements
+- **Security Awareness** — best practices for cloud and application security
+- **Effective Communication** — professional engagement with clients and teams
 
 ---
 
 ## Experience
 
-### Full Stack Software Development Team Lead & DevOps Specialis 
-**remote – vveeo.com**  
-*Nov 2019 – Nov 2024 (5+ yrs)*
+### vveeo.com — Full Stack Software Development Team Lead & DevOps Specialist
+**Remote** · *Nov 2019 – Nov 2024 (5+ yrs)*
 
-#### Part Digitizer and Kubernetes Cluster Automation  
-**Role:** Lead Developer
+**Part Digitizer & Kubernetes Cluster Automation** — *Lead Developer*
 
-**Part Digitizer:**  
-- Implemented an offline desktop application for 3D printing using Electron.js, React.js, Redux, Tailwind CSS, Node.js, and Express.js.  
-- Designed a high-performing architecture that improved system performance and responsiveness.  
-- Led a team of 6 developers, overseeing the addition of initial features and the transition to a microservices architecture, thereby enhancing scalability and maintainability.  
-- Integrated AWS RDS for database management, ensuring data consistency and availability even for offline use.
+*Part Digitizer:*
+- Built an offline desktop application for 3D printing using Electron.js, React.js, Redux, Tailwind CSS, Node.js, and Express.js
+- Designed a high-performing architecture that improved system performance and responsiveness
+- Led a team of 6 developers through initial feature development and a transition to microservices architecture, improving scalability and maintainability
+- Integrated AWS RDS for database management, ensuring data consistency and availability even offline
 
-**Kubernetes Cluster Automation:**  
-- Built an automated Kubernetes (K8s) cluster using Ansible, Terraform, Docker, Nginx, Jenkins, and Helm to streamline the deployment and scaling of both frontend and backend applications.  
-- Designed a reusable K8s template that enhanced cluster management and reduced setup time.  
-- Leveraged Jenkins for continuous integration and deployment (CI/CD) and integrated Helm for simplified application packaging and deployment, ensuring scalable, maintainable infrastructure.
+*Kubernetes Cluster Automation:*
+- Built an automated Kubernetes (K8s) cluster using Ansible, Terraform, Docker, Nginx, Jenkins, and Helm to streamline deployment and scaling of frontend and backend applications
+- Designed a reusable K8s template that improved cluster management and cut setup time
+- Used Jenkins for CI/CD and Helm for simplified application packaging and deployment
 
-#### Cloud-based ERP and Social Networking Solutions  
-**Role:** Full Stack Developer & DevOps Engineer
+**Cloud-based ERP and Social Networking Solutions** — *Full Stack Developer & DevOps Engineer*
 
-- **Real Estate Social Network:**  
-  - Migrated and deployed a real estate social network across AWS regions using Docker and RabbitMQ.  
-  - Optimized performance with EC2 and Route 53 for scalability, load balancing, and failover, ensuring high availability and reduced latency.
+*Real Estate Social Network:*
+- Migrated and deployed a real estate social network across AWS regions using Docker and RabbitMQ
+- Optimized performance with EC2 and Route 53 for scalability, load balancing, and failover — improving availability and reducing latency
 
-- **ERP Solutions:**  
-  - Deployed and maintained a cloud-based ERP on AWS with 99.9% uptime.  
-  - Built custom solutions using Python, Jinja, and JavaScript.  
-  - Automated infrastructure with Terraform and Ansible and enhanced monitoring with Nagios to improve resilience and performance.
+*ERP Solutions:*
+- Deployed and maintained a cloud-based ERP on AWS with 99.9% uptime
+- Built custom solutions using Python, Jinja, and JavaScript
+- Automated infrastructure with Terraform and Ansible; enhanced monitoring with Nagios to improve resilience and performance
 
 ---
 
-### Full Stack Software Developer  
-**Mozanta Technologies (now Valoriz Digital)**  
-*Oct 2018 – Oct 2019 (1 yr and 1 month)*
+### Mozanta Technologies (now Valoriz Digital) — Full Stack Software Developer
+*Oct 2018 – Oct 2019 (1 yr 1 month)*
 
-#### E-commerce Systems
+**E-commerce Systems**
 
-**Carrier Management System:**  
-- Developed a robust Carrier Management System for an e-commerce platform using React, Node.js, Express.js, and MongoDB.  
-- Improved delivery efficiency and supported over 200 daily active users by integrating system components via REST APIs for seamless communication.  
-- Reduced maintenance time by 20% through a well-structured, documented codebase and rigorous testing to ensure reliability and scalability.
+*Carrier Management System:*
+- Built a Carrier Management System for an e-commerce platform using React, Node.js, Express.js, and MongoDB
+- Supported 200+ daily active users via REST API integration for seamless communication
+- Cut maintenance time by 20% through a well-structured, documented, and thoroughly tested codebase
 
-**Order Management System (OMS):**  
-- Contributed to the development of the Order Management System using the MERN stack and Java Spring Boot microservices.  
-- Added new features, fixed bugs, and improved real-time order tracking, enhancing user experience and operational efficiency by 25%.  
-- Reduced issue resolution time by 30% and maintained high code quality through thorough documentation and adherence to coding standards.
+*Order Management System (OMS):*
+- Contributed to an OMS built on the MERN stack and Java Spring Boot microservices
+- Added features, fixed bugs, and improved real-time order tracking — boosting operational efficiency by 25%
+- Reduced issue resolution time by 30% while maintaining high code quality and documentation standards
 
-**Loyalty Points & Cards Integration:**  
-- Developed a comprehensive loyalty points integration module that optimized the user loyalty experience through advanced data handling.  
-- Facilitated a 15% increase in repeat purchases, thereby enhancing overall customer loyalty.
-
+*Loyalty Points & Cards Integration:*
+- Built a loyalty points integration module with advanced data handling
+- Drove a 15% increase in repeat purchases, improving overall customer loyalty
 
 ---
 
 ## Projects
 
-### DevOps Observability-Stack
-- **Description:** This repository sets up a DevOps Monitoring Stack consisting of Nagios, Prometheus, and Grafana using Docker containers, and is designed for seamless monitoring and alerting of your infrastructure and applications.
-- **Technologies:**  ansible, docker, docker-compose, grafana, nagios, prometheus
-- **Repository:** [Link](https://github.com/shibinrajumathew/observability-stack)
-  
-### k8s cluster bootstrap (bare metal)
-- **Description:** Code for setting up Kubernetes with Docker for frontend and backend applications. Using Nginx ingress controller by helm, For bare metal server.
-- **Technologies:** Terraform, Ansible, Jenkins, Docker, K8s
-- **Repository:** [Link](https://github.com/shibinrajumathew/k8s-cluster-bootstrap)
+| Project | Description | Technologies | Link |
+|---|---|---|---|
+| **DevOps Observability Stack** | Monitoring stack with Nagios, Prometheus, and Grafana in Docker containers for infrastructure and application observability/alerting | Ansible, Docker, Docker Compose, Grafana, Nagios, Prometheus | [Repo](https://github.com/shibinrajumathew/observability-stack) |
+| **K8s Cluster Bootstrap (Bare Metal)** | Kubernetes setup with Docker for frontend/backend apps, using an Nginx ingress controller via Helm, for bare-metal servers | Terraform, Ansible, Jenkins, Docker, K8s | [Repo](https://github.com/shibinrajumathew/k8s-cluster-bootstrap) |
+| **React Trading Simulator** | Virtual trading simulation interface with interactive market visualizations and secure authentication | React.js, AWS Cognito, D3.js | [Repo](https://github.com/shibinrajumathew/TickSim-UI) |
+| **Easy E-commerce API** | REST API for a lightweight e-commerce platform | Node.js, Express.js, Swagger, MongoDB, REST API | [Repo](https://github.com/shibinrajumathew/Easy-E-commerce-MS) |
 
-### React trading simulator
-- **Description:** React-based virtual trading simulation interface with interactive market visualizations using D3.js and secure user authentication through AWS Cognito.
-- **Technologies:** React.js, AWS Cognito, D3js
-- **Repository:** [Link](https://github.com/shibinrajumathew/TickSim-UI)
-
-### Easy-E-commerce API
-- **Description:** Nodejs Application - REST API -for easy e-commerce.
-- **Technologies:** Nodejs, Express.js, Swagger, MongoDB, RestAPI.
-- **Repository:** [Link](https://github.com/shibinrajumathew/Easy-E-commerce-MS)
-
-  
 ---
 
 ## Certifications & Awards
 
-- **AWS Certified Developer – Associate** *(March 2025)*
-- **AWS Cloud Quest: Cloud Practitioner** *(Feb 2025)*
-- **Modern Application Development** *(Oct 2016)*
+- 🏆 **AWS Certified Developer – Associate** *(March 2025)*
+- 🏆 **AWS Cloud Quest: Cloud Practitioner** *(Feb 2025)*
+- 🏆 **Modern Application Development** *(Oct 2016)*
 
 ---
 
 ## Get in Touch
 
-I love connecting with other tech enthusiasts! Feel free to reach out if you'd like to collaborate, have any questions, or just want to say hi.
+I love connecting with other tech enthusiasts! Feel free to reach out if you'd like to collaborate, have questions, or just want to say hi.
 
-- **Email:** [shibinrajumathew@yahoo.com]
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/shibinrajumathew)
-- **Stackoverflow:** [Reputation - 900+](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
-
----
-
-
+- 📧 **Email:** [shibinrajumathew@yahoo.com](mailto:shibinrajumathew@yahoo.com)
+- 💼 **LinkedIn:** [linkedin.com/in/shibinrajumathew](https://linkedin.com/in/shibinrajumathew)
+- 💬 **Stack Overflow:** [900+ reputation](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
 
 ---
 
 *Thank you for visiting my GitHub portfolio!*
-
