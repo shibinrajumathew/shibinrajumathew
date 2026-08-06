@@ -129,30 +129,25 @@ Work Eligibility: Currently residing in the UK with a dependent visa, eligible t
 
 ## Projects
 
-### Observability-Stack
+### DevOps Observability-Stack
 - **Description:** This repository sets up a DevOps Monitoring Stack consisting of Nagios, Prometheus, and Grafana using Docker containers, and is designed for seamless monitoring and alerting of your infrastructure and applications.
 - **Technologies:**  ansible, docker, docker-compose, grafana, nagios, prometheus
 - **Repository:** [Link](https://github.com/shibinrajumathew/observability-stack)
   
-### k8s cluster setup
+### k8s cluster bootstrap (bare metal)
 - **Description:** Code for setting up Kubernetes with Docker for frontend and backend applications. Using Nginx ingress controller by helm, For bare metal server.
 - **Technologies:** Terraform, Ansible, Jenkins, Docker, K8s
-- **Repository:** [Link](https://github.com/shibinrajumathew/k8s-cluster-setup)
+- **Repository:** [Link](https://github.com/shibinrajumathew/k8s-cluster-bootstrap)
 
-### TickSim-UI
-- **Description:** ReactJs app - virtual trading with d3js and aws cognito.
+### React trading simulator
+- **Description:** React-based virtual trading simulation interface with interactive market visualizations using D3.js and secure user authentication through AWS Cognito.
 - **Technologies:** React.js, AWS Cognito, D3js
 - **Repository:** [Link](https://github.com/shibinrajumathew/TickSim-UI)
 
-### Easy-E-commerce-MS
+### Easy-E-commerce API
 - **Description:** Nodejs Application - REST API -for easy e-commerce.
 - **Technologies:** Nodejs, Express.js, Swagger, MongoDB, RestAPI.
 - **Repository:** [Link](https://github.com/shibinrajumathew/Easy-E-commerce-MS)
-  
-### Easy-Blogger
-- **Description:** Java based simple blog rest api.
-- **Technologies:** Java Spring, Hibernate, ORM, Mysql.
-- **Repository:** [Link](https://github.com/shibinrajumathew/Easy-Blogger)
 
   
 ---
