@@ -76,7 +76,7 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strateg
 ## Experience
 
 ### vveeo.com — Full Stack Software Development Team Lead & DevOps Specialist
-**Remote** · *Nov 2019 – Nov 2024 (5+ yrs)*
+**Remote** · *Nov 2019  (7+ yrs)*
 
 **Part Digitizer & Kubernetes Cluster Automation** — *Lead Developer*
 
