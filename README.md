@@ -33,11 +33,6 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strateg
 - Led projects that reduced onboarding time by **40%**
 - Enhanced transaction speeds by **30%** on an e-commerce platform (React.js, Node.js, AWS)
 
-**Status:**
-- 🔭 Currently working on: cloud management with DevOps tools
-- 🌱 Currently learning: preparing for AWS certification
-- 👯 Looking to collaborate on: DevOps and software development projects
-- 🌍 Work eligibility: Based in the UK on a dependent visa, eligible to work full-time
 
 ---
 
