@@ -124,7 +124,7 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strateg
 
 | Project | Description | Technologies | Link |
 |---|---|---|---|
-| **accounting-app** | A frontend-only accounting and billing back office | Next.js, TypeScript, and Tailwind CSS | [Repo](https://github.com/shibinrajumathew/accounting-app) |
+| **Accounting app** | A frontend-only accounting and billing back office | Next.js, TypeScript, and Tailwind CSS | [Repo](https://github.com/shibinrajumathew/accounting-app) |
 | **DevOps Observability Stack** | Monitoring stack with Nagios, Prometheus, and Grafana in Docker containers for infrastructure and application observability/alerting | Ansible, Docker, Docker Compose, Grafana, Nagios, Prometheus | [Repo](https://github.com/shibinrajumathew/observability-stack) |
 | **K8s Cluster Bootstrap (Bare Metal)** | Kubernetes setup with Docker for frontend/backend apps, using an Nginx ingress controller via Helm, for bare-metal servers | Terraform, Ansible, Jenkins, Docker, K8s | [Repo](https://github.com/shibinrajumathew/k8s-cluster-bootstrap) |
 | **React Trading Simulator** | Virtual trading simulation interface with interactive market visualizations and secure authentication | React.js, AWS Cognito, D3.js | [Repo](https://github.com/shibinrajumathew/TickSim-UI) |
