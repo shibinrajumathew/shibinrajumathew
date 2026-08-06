@@ -13,7 +13,7 @@ Full Stack Developer & DevOps Specialist blending application development with c
    - [Technical Skills](#technical-skills)
    - [Soft Skills](#soft-skills)
 3. [Experience](#experience)
-   - [vveeo.com — Team Lead & DevOps Specialist](#vveeocom--full-stack-software-development-team-lead--devops-specialist)
+   - [vveeo.com — Full Stack Software Development, Team Lead & DevOps Specialist](#vveeocom--full-stack-software-development-team-lead--devops-specialist)
    - [Mozanta Technologies — Full Stack Developer](#mozanta-technologies-now-valoriz-digital--full-stack-software-developer)
 4. [Projects](#projects)
 5. [Certifications & Awards](#certifications--awards)
@@ -75,7 +75,7 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strateg
 
 ## Experience
 
-### vveeo.com — Full Stack Software Development Team Lead & DevOps Specialist
+### vveeo.com — Full Stack Software Development, Team Lead & DevOps Specialist
 **Remote** · *Nov 2019  (7+ yrs)*
 
 **Part Digitizer & Kubernetes Cluster Automation** — *Lead Developer*
