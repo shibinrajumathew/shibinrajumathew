@@ -16,8 +16,9 @@ Full Stack Developer & DevOps Specialist blending application development with c
    - [vveeo — Self-Employed (6 yrs 11 mos)](#vveeo--self-employed-6-yrs-11-mos)
    - [Mozanta Technologies (1 yr 5 mos)](#mozanta-technologies-1-yr-5-mos)
 4. [Projects](#projects)
-5. [Certifications & Awards](#certifications--awards)
-6. [Get in Touch](#get-in-touch)
+5. [Education](#education)
+6. [Certifications & Awards](#certifications--awards)
+7. [Get in Touch](#get-in-touch)
 
 ---
 
@@ -59,6 +60,7 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 | **CMS & Web** | WordPress, PHP, HTML/CSS, VitePress |
 | **Performance & Scalability** | System tuning, load balancing, multi-region deployments, auto-scaling right-sizing |
 | **Agile Development** | Sprint planning, iterative development, cross-functional collaboration |
+| **AI-Assisted Development** | Claude, GitHub Copilot — used for accelerated coding, optimization, and website design |
 
 ### Soft Skills
 
@@ -87,9 +89,10 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 - Built custom business logic including print format templates and financial calculation modules
 - Automated infrastructure provisioning with Terraform and Ansible; configured and managed NGINX
 - Implemented a full observability stack (Nagios, ELK, Prometheus, Grafana) for proactive monitoring
+- Used AI-assisted coding tools (**Claude, GitHub Copilot**) to accelerate application development and optimize the codebase, helping deliver builds within tight client timeframes
 - **Delivered 12 ERP implementations** across the Middle East, independently managing solution design through go-live, with **99% uptime SLA**
 
-*Stack: Python, Jinja, JavaScript, Terraform, Ansible, NGINX, Nagios, AWS (EC2, Lightsail, Route 53)*
+*Stack: Python, Jinja, JavaScript, Terraform, Ansible, NGINX, Nagios, AWS (EC2, Lightsail, Route 53), Claude, GitHub Copilot*
 
 #### Full Stack Developer & DevOps Engineer
 *Apr 2023 – Sep 2024 · 1 yr 6 mos*
@@ -127,17 +130,18 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 *Stack: Node.js, Express.js, TypeScript, PostgreSQL, Microservices Architecture*
 
 #### Web Developer & CMS Specialist — WordPress
-*Nov 2019 – Oct 2022 · 3 yrs*
+*Nov 2019 – Present*
 
 **Business Websites & Content Management Solutions**
 - Delivered 6–10 custom business websites across Retail, Real Estate, Homestay, Services, and Software Services sectors in the Middle East and India
 - Consulted directly with clients to translate business requirements into tailored website solutions
 - Built custom WordPress features with PHP, HTML, and CSS; developed lightweight static sites with VitePress
+- Uses **Claude** to assist with website design and layout work, speeding up build and iteration time
 - Improved page load times, mobile responsiveness, and SEO
 - Trained clients on CMS usage, enabling non-technical teams to self-manage their sites
 - Maintained relationships spanning **3–5 years** with most clients
 
-*Stack: PHP, HTML, CSS, WordPress, Cloud Hosting*
+*Stack: PHP, HTML, CSS, WordPress, Cloud Hosting, Claude*
 
 ---
 
@@ -175,9 +179,19 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 
 ---
 
+## Education
+
+**Master of Computer Applications**
+*University of Kerala, Thiruvananthapuram · 2018*
+
+**Bachelor of Science (BS), Physics**
+*Mahatma Gandhi University (MGU), Kottayam · 2015*
+
+---
+
 ## Certifications & Awards
 
-- 🏆 **Google Analytics Certification** *(Nov 2025)*
+- 🏆 **Google Analytics Certification** — *Google Digital Academy (Skillshop)* · Issued Nov 2025
 - 🏆 **AWS Certified Developer – Associate** *(March 2025)*
 - 🏆 **AWS Cloud Quest: Cloud Practitioner** *(Feb 2025)*
 - 🏆 **Modern Application Development** *(Oct 2016)*
