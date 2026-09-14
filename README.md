@@ -82,7 +82,8 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 
 **ERP Solutions for Middle East Clients** *(Retail Sector)*
 - Served as primary technical contact for sales partners and non-technical stakeholders, gathering requirements and translating them into solution architecture
-- Designed and deployed cost-optimized AWS architecture (EC2, 2–3 instances) tailored for retail ERP workloads
+- Delivered ERP solutions in both **dedicated (single-tenant) installations** and **SaaS-based (multi-tenant) installations**, choosing the deployment model based on client needs, isolation requirements, and budget
+- Designed and deployed cost-optimized AWS architecture (EC2, 2–3 instances) tailored for retail ERP workloads across both deployment models
 - Built custom business logic including print format templates and financial calculation modules
 - Automated infrastructure provisioning with Terraform and Ansible; configured and managed NGINX
 - Implemented a full observability stack (Nagios, ELK, Prometheus, Grafana) for proactive monitoring
@@ -176,6 +177,7 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 
 ## Certifications & Awards
 
+- 🏆 **Google Analytics Certification** *(Nov 2025)*
 - 🏆 **AWS Certified Developer – Associate** *(March 2025)*
 - 🏆 **AWS Cloud Quest: Cloud Practitioner** *(Feb 2025)*
 - 🏆 **Modern Application Development** *(Oct 2016)*
