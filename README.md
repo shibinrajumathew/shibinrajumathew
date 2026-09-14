@@ -147,7 +147,7 @@ I love connecting with other tech enthusiasts! Feel free to reach out if you'd l
 - 📧 **Email:** [shibinrajumathew@yahoo.com](mailto:shibinrajumathew@yahoo.com)
 - 💼 **LinkedIn:** [linkedin.com/in/shibinrajumathew](https://linkedin.com/in/shibinrajumathew)
 - 💬 **Stack Overflow:** [900+ reputation](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
-- 🏆 **Leet Code** [Leetcode](https://leetcode.com/u/shibinrajumathew/).
+- 🏆 **Leet Code** [leetcode.com/u/shibinrajumathew/](https://leetcode.com/u/shibinrajumathew/).
 
 ---
 
