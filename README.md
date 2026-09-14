@@ -13,8 +13,8 @@ Full Stack Developer & DevOps Specialist blending application development with c
    - [Technical Skills](#technical-skills)
    - [Soft Skills](#soft-skills)
 3. [Experience](#experience)
-   - [vveeo.com — Full Stack Software Development, Team Lead & DevOps Specialist](#vveeocom--full-stack-software-development-team-lead--devops-specialist)
-   - [Mozanta Technologies — Full Stack Developer](#mozanta-technologies-now-valoriz-digital--full-stack-software-developer)
+   - [vveeo — Self-Employed (6 yrs 11 mos)](#vveeo--self-employed-6-yrs-11-mos)
+   - [Mozanta Technologies (1 yr 5 mos)](#mozanta-technologies-1-yr-5-mos)
 4. [Projects](#projects)
 5. [Certifications & Awards](#certifications--awards)
 6. [Get in Touch](#get-in-touch)
@@ -25,14 +25,15 @@ Full Stack Developer & DevOps Specialist blending application development with c
 
 I bring a unique blend of development expertise and DevOps strategy to every project I work on. My strength lies not just in building applications, but in streamlining deployment processes and ensuring applications are scalable and reliable from day one.
 
-I've developed web, mobile, and desktop applications for teams across the Middle East, USA, and India — always focused on optimizing workflows and integrating modern practices. What sets me apart is combining full stack development with DevOps tools like Kubernetes, Docker, Ansible, and Terraform to automate infrastructure, deploy quickly, and maintain CI/CD with minimal downtime and maximum efficiency.
+Over 8+ years, I've delivered ERP systems, social platforms, offline-first desktop apps, backend microservices, and custom websites for clients across the Middle East, USA, and India — often as the sole technical owner end-to-end, from client requirements through architecture, delivery, and monitoring.
 
-By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strategy, I help businesses deploy faster and more reliably — reducing bottlenecks and improving collaboration between development and operations teams.
+By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling like Kubernetes, Docker, Ansible, and Terraform, I help businesses deploy faster and more reliably — reducing bottlenecks and improving collaboration between development and operations.
 
 **Highlights:**
-- Led projects that reduced onboarding time by **40%**
-- Enhanced transaction speeds by **30%** on an e-commerce platform (React.js, Node.js, AWS)
-
+- Delivered **12 cloud-based ERP implementations** for Middle East retail clients, maintaining **99% uptime SLA**
+- Migrated a production real estate platform (5 microservices, 3 environments) across AWS regions with **zero downtime**
+- Right-sized over-provisioned infrastructure, cutting monthly cloud costs by **~30%** (~$1,000 → ~$700/month)
+- Led a team of 6 to deliver an offline-first desktop application within a **3-month** urgent timeline
 
 ---
 
@@ -42,25 +43,28 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strateg
 
 | Category | Technologies |
 |---|---|
-| **Full Stack Development** | React.js, Node.js, TypeScript, JavaScript, Express.js |
+| **Full Stack Development** | React.js, Next.js, Node.js, TypeScript, JavaScript, Express.js |
 | **Backend Development** | MERN stack, Spring Boot, Hibernate |
-| **Cloud Infrastructure & Security** | AWS (EC2, S3, Lambda, Route 53, Lightsail, IAM, VPC) |
+| **Desktop & Offline-First Apps** | Electron.js, Redux, Tailwind CSS |
+| **Cloud Infrastructure & Security** | AWS (EC2, S3, Lambda, RDS, Route 53, Lightsail, IAM, VPC) |
 | **Infrastructure as Code** | Terraform, Ansible |
-| **Containers & Orchestration** | Docker, Kubernetes |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm |
 | **CI/CD** | Jenkins, Docker-based pipelines |
-| **Scripting** | Bash |
+| **Messaging** | RabbitMQ |
+| **Scripting** | Bash, Python, Jinja |
 | **Version Control** | Git, GitHub, Bitbucket |
 | **Database Management** | PostgreSQL, MySQL, MongoDB |
 | **API Development** | REST, microservices architecture |
-| **Monitoring & Observability** | Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana) — self-taught via hands-on hobby projects |
-| **Performance & Scalability** | System tuning, load balancing, multi-region deployments |
+| **Monitoring & Observability** | Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Nagios |
+| **CMS & Web** | WordPress, PHP, HTML/CSS, VitePress |
+| **Performance & Scalability** | System tuning, load balancing, multi-region deployments, auto-scaling right-sizing |
 | **Agile Development** | Sprint planning, iterative development, cross-functional collaboration |
 
 ### Soft Skills
 
 - **Decision-Making & Problem-Solving** — confidently analyze situations and provide evidence-based solutions
 - **Relationship Building & Mentoring** — foster strong collaboration and mentor junior developers
-- **Guidance & Enthusiasm** — proactive support for team members
+- **Client-Facing Ownership** — act as primary technical contact for non-technical stakeholders and sales partners
 - **Commitment & Confidence** — ownership of projects with a results-driven mindset
 - **Flexibility & Quick Learning** — adapt efficiently to new technologies and changing requirements
 - **Security Awareness** — best practices for cloud and application security
@@ -70,53 +74,91 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps strateg
 
 ## Experience
 
-### vveeo.com — Full Stack Software Development, Team Lead & DevOps Specialist
-**Remote** · *Nov 2019  (7+ yrs)*
+### vveeo — Self-Employed (6 yrs 11 mos)
+**Remote**
 
-**Part Digitizer & Kubernetes Cluster Automation** — *Lead Developer*
+#### DevOps Engineer — Cloud Infrastructure & ERP Operations
+*Feb 2023 – Present · 3 yrs 8 mos*
 
-*Part Digitizer:*
-- Built an offline desktop application for 3D printing using Electron.js, React.js, Redux, Tailwind CSS, Node.js, and Express.js
-- Designed a high-performing architecture that improved system performance and responsiveness
-- Led a team of 6 developers through initial feature development and a transition to microservices architecture, improving scalability and maintainability
-- Integrated AWS RDS for database management, ensuring data consistency and availability even offline
+**ERP Solutions for Middle East Clients** *(Retail Sector)*
+- Served as primary technical contact for sales partners and non-technical stakeholders, gathering requirements and translating them into solution architecture
+- Designed and deployed cost-optimized AWS architecture (EC2, 2–3 instances) tailored for retail ERP workloads
+- Built custom business logic including print format templates and financial calculation modules
+- Automated infrastructure provisioning with Terraform and Ansible; configured and managed NGINX
+- Implemented a full observability stack (Nagios, ELK, Prometheus, Grafana) for proactive monitoring
+- **Delivered 12 ERP implementations** across the Middle East, independently managing solution design through go-live, with **99% uptime SLA**
 
-*Kubernetes Cluster Automation:*
-- Built an automated Kubernetes (K8s) cluster using Ansible, Terraform, Docker, Nginx, Jenkins, and Helm to streamline deployment and scaling of frontend and backend applications
-- Designed a reusable K8s template that improved cluster management and cut setup time
-- Used Jenkins for CI/CD and Helm for simplified application packaging and deployment
+*Stack: Python, Jinja, JavaScript, Terraform, Ansible, NGINX, Nagios, AWS (EC2, Lightsail, Route 53)*
 
-**Cloud-based ERP and Social Networking Solutions** — *Full Stack Developer & DevOps Engineer*
+#### Full Stack Developer & DevOps Engineer
+*Apr 2023 – Sep 2024 · 1 yr 6 mos*
 
-*Real Estate Social Network:*
-- Migrated and deployed a real estate social network across AWS regions using Docker and RabbitMQ
-- Optimized performance with EC2 and Route 53 for scalability, load balancing, and failover — improving availability and reducing latency
+**Real Estate Social Network — AWS Migration & Platform Development**
+- Implemented multi-provider social login for user onboarding and migrated image storage to AWS S3
+- Reverse-engineered an undocumented application ahead of a full infrastructure migration
+- Migrated 5 microservices to a new AWS region across SIT, UAT, and Production with **zero downtime**
+- Containerized all services with Docker; managed orchestration via Kubernetes; configured RabbitMQ for async messaging
+- Built CI/CD pipelines in Jenkins (GitHub → build → test → deploy)
+- Identified severe over-provisioning (Elastic Beanstalk scaling 3→20 instances under low load) and right-sized to a max of 6 — cutting monthly infra cost **~30%** (~$1,000 → ~$700)
 
-*ERP Solutions:*
-- Deployed and maintained a cloud-based ERP on AWS with 99.9% uptime
-- Built custom solutions using Python, Jinja, and JavaScript
-- Automated infrastructure with Terraform and Ansible; enhanced monitoring with Nagios to improve resilience and performance
+*Stack: AWS, Docker, Kubernetes, RabbitMQ, Linux, Auto Scaling, Java Spring Boot, Jenkins CI/CD*
+
+#### Lead Developer — 3D Printing Offline Desktop Application
+*Jan 2024 – Mar 2024 · 3 mos*
+
+- Led a team of 6 to architect and deliver an offline-first desktop app as a critical sub-module of a larger 3D printing platform, under a tight 3-month timeline
+- Designed local-first data capture (3D part dimensions, print process data) with automatic sync to AWS RDS on reconnect — **zero data loss**
+- Coordinated with a parallel team building User Management and Data Sync microservices, defining integration contracts early
+- Facilitated structured knowledge transfer to the successor team post-handover
+
+*Stack: Electron, Next.js, React.js, Redux, Tailwind CSS, Node.js, Express.js, AWS RDS*
+
+#### Backend Developer — Microservices
+*Oct 2022 – Apr 2023 · 7 mos*
+
+**Mobile App Backend Service (Recharge & Reward Platform)**
+- Built and maintained RESTful APIs across 2–3 microservices supporting recharge transactions and reward logic (including spin-wheel rewards), as part of a 4-person backend team
+- Designed and optimized PostgreSQL schemas for recharge and reward data at scale
+- Fixed a critical data integrity bug in reward/spin-wheel recording, ensuring rewards were accurately persisted
+- Improved API response times **~10%** through targeted code review and query/endpoint optimization
+- Maintained services supporting 50–100 recharge transactions with **99% uptime**
+
+*Stack: Node.js, Express.js, TypeScript, PostgreSQL, Microservices Architecture*
+
+#### Web Developer & CMS Specialist — WordPress
+*Nov 2019 – Oct 2022 · 3 yrs*
+
+**Business Websites & Content Management Solutions**
+- Delivered 6–10 custom business websites across Retail, Real Estate, Homestay, Services, and Software Services sectors in the Middle East and India
+- Consulted directly with clients to translate business requirements into tailored website solutions
+- Built custom WordPress features with PHP, HTML, and CSS; developed lightweight static sites with VitePress
+- Improved page load times, mobile responsiveness, and SEO
+- Trained clients on CMS usage, enabling non-technical teams to self-manage their sites
+- Maintained relationships spanning **3–5 years** with most clients
+
+*Stack: PHP, HTML, CSS, WordPress, Cloud Hosting*
 
 ---
 
-### Mozanta Technologies (now Valoriz Digital) — Full Stack Software Developer
-*Oct 2018 – Oct 2019 (1 yr 1 month)*
+### Mozanta Technologies (1 yr 5 mos)
+*now Valoriz Digital · India*
 
-**E-commerce Systems**
+#### Full Stack Software Developer
+*Oct 2018 – Oct 2019 · 1 yr 1 mo*
 
-*Carrier Management System:*
-- Built a Carrier Management System for an e-commerce platform using React, Node.js, Express.js, and MongoDB
-- Supported 200+ daily active users via REST API integration for seamless communication
-- Cut maintenance time by 20% through a well-structured, documented, and thoroughly tested codebase
+**E-commerce Carrier Management & Order Management Systems**
+- Built a Carrier Management System (React, Node.js, Express.js, MongoDB) — improved delivery efficiency **30%**, cutting shipping times from 5 to 3.5 days
+- Integrated system components via REST APIs, improving data transfer speed **40%**
+- Delivered a scalable system supporting 200+ daily active users, capable of handling 300% user growth without degradation
+- Achieved 99.9% uptime through rigorous testing, reducing bug reports **50%**
+- Enhanced the Order Management System, improving processing efficiency **30%** and customer satisfaction **20%**
+- Developed backend services in Spring Boot, increasing backend processing speed **35%** and reducing system errors **50%**
 
-*Order Management System (OMS):*
-- Contributed to an OMS built on the MERN stack and Java Spring Boot microservices
-- Added features, fixed bugs, and improved real-time order tracking — boosting operational efficiency by 25%
-- Reduced issue resolution time by 30% while maintaining high code quality and documentation standards
+#### Intern
+*Jun 2018 – Sep 2018 · 4 mos*
 
-*Loyalty Points & Cards Integration:*
-- Built a loyalty points integration module with advanced data handling
-- Drove a 15% increase in repeat purchases, improving overall customer loyalty
+- Contributed to KDisc, a Spring Boot application for the Kerala government, improving user satisfaction **~20%** through feature and usability enhancements
+- Developed a React Native mobile app for a multiple-choice-based system with an improved, intuitive UI
 
 ---
 
@@ -147,7 +189,7 @@ I love connecting with other tech enthusiasts! Feel free to reach out if you'd l
 - 📧 **Email:** [shibinrajumathew@yahoo.com](mailto:shibinrajumathew@yahoo.com)
 - 💼 **LinkedIn:** [linkedin.com/in/shibinrajumathew](https://linkedin.com/in/shibinrajumathew)
 - 💬 **Stack Overflow:** [900+ reputation](https://stackoverflow.com/users/8006192/shibin-raju-mathew)
-- 🏆 **Leet Code** [leetcode.com/u/shibinrajumathew/](https://leetcode.com/u/shibinrajumathew/).
+- 🏆 **LeetCode:** [leetcode.com/u/shibinrajumathew/](https://leetcode.com/u/shibinrajumathew/)
 
 ---
 
