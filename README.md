@@ -57,7 +57,7 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 | **Database Management** | PostgreSQL, MySQL, MongoDB |
 | **API Development** | REST, microservices architecture |
 | **Monitoring & Observability** | Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Nagios |
-| **CMS & Web** | WordPress, PHP, HTML/CSS, VitePress |
+| **CMS & Web** | WordPress, PHP, HTML/CSS, VitePress, WCAG/ARIA Accessibility |
 | **Performance & Scalability** | System tuning, load balancing, multi-region deployments, auto-scaling right-sizing |
 | **Agile Development** | Sprint planning, iterative development, cross-functional collaboration |
 | **AI-Assisted Development** | Claude, GitHub Copilot — used for accelerated coding, optimization, and website design |
@@ -136,12 +136,13 @@ By pairing a strong foundation in React.js, Node.js, and AWS with DevOps tooling
 - Delivered 6–10 custom business websites across Retail, Real Estate, Homestay, Services, and Software Services sectors in the Middle East and India
 - Consulted directly with clients to translate business requirements into tailored website solutions
 - Built custom WordPress features with PHP, HTML, and CSS; developed lightweight static sites with VitePress
+- Built most sites to **WCAG/ARIA accessibility standards**, ensuring semantic markup, keyboard navigability, and screen-reader compatibility for compliant, inclusive user experiences
 - Uses **Claude** to assist with website design and layout work, speeding up build and iteration time
 - Improved page load times, mobile responsiveness, and SEO
 - Trained clients on CMS usage, enabling non-technical teams to self-manage their sites
 - Maintained relationships spanning **3–5 years** with most clients
 
-*Stack: PHP, HTML, CSS, WordPress, Cloud Hosting, Claude*
+*Stack: PHP, HTML, CSS, WordPress, Cloud Hosting, Claude, WCAG/ARIA*
 
 ---
 
