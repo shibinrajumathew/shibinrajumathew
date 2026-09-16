@@ -157,8 +157,8 @@ I work as a solo, independent contractor across parallel and sequential client e
 
 ## Education
 
-**Master of Computer Applications**, University of Kerala, Thiruvananthapuram, 2018
-**Bachelor of Science (BS), Physics**, Mahatma Gandhi University (MGU), Kottayam, 2015
+- **Master of Computer Applications**, University of Kerala, Thiruvananthapuram, 2018
+- **Bachelor of Science (BS), Physics**, Mahatma Gandhi University (MGU), Kottayam, 2015
 
 ---
 
