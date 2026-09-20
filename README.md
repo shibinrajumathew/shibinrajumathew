@@ -70,7 +70,7 @@ I'm a full stack developer and DevOps engineer. I've spent the last 6+ years, si
 
 ## Experience
 
-### Independent Contractor / Freelance (Nov 2019 to Present)
+### Full Stack Developer and DevOps Engineer (Independent Contractor / Freelance) (Nov 2019 to Present)
 **Remote, Multiple Clients (Middle East, USA, India)**
 
 I work as a solo, independent contractor across parallel and sequential client engagements. I act as the primary technical point of contact for non-technical stakeholders and translate business requirements into working solutions. I started with custom business website builds in 2019. In 2023, this expanded into larger scale ERP and DevOps engagements.
