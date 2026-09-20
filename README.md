@@ -2,9 +2,9 @@
 
 Full Stack Developer and DevOps Engineer with 8+ years of experience, including 6+ years as an **independent contractor** delivering ERP systems, microservices platforms, and desktop applications for clients across the Middle East, USA, and India.
 
-📍 **Location:** India (Remote) &nbsp;|&nbsp; Open to: **Remote, Contract, or Onsite (relocation negotiable)**
+📍 **Location:** Kerala - India &nbsp;|&nbsp; 
 📫 **Email:** shibinrajumathew@yahoo.com &nbsp;|&nbsp; 📱 **+91-9048620781**
-💼 **[LinkedIn](https://linkedin.com/in/shibinrajumathew)** &nbsp;|&nbsp; 💬 **[Stack Overflow (900+ reputation)](https://stackoverflow.com/users/8006192/shibin-raju-mathew)** &nbsp;|&nbsp; 🏆 **[LeetCode](https://leetcode.com/u/shibinrajumathew/)**
+💼 **[LinkedIn](https://linkedin.com/in/shibinrajumathew)** &nbsp;|&nbsp; 🏆 **[LeetCode](https://leetcode.com/u/shibinrajumathew/)**
 
 ---
 
