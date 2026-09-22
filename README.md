@@ -130,25 +130,30 @@ Worked in a cross-functional engineering team building ecommerce and order manag
 
 ## Skills & Technologies
 
-| Category | Technologies |
-|---|---|
-| **Full Stack Development** | React.js, Next.js, Node.js, TypeScript, JavaScript, Express.js |
-| **Backend Development** | MERN stack, Spring Boot, Hibernate |
-| **Desktop & Offline First Apps** | Electron.js, Redux, Tailwind CSS |
-| **Cloud Infrastructure & Security** | AWS (EC2, S3, Lambda, RDS, Route 53, Lightsail, IAM, VPC) |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm |
-| **CI/CD** | Jenkins, Docker based pipelines |
-| **Messaging** | RabbitMQ |
-| **Scripting** | Bash, Python, Jinja |
-| **Version Control** | Git, GitHub, Bitbucket |
-| **Database Management** | PostgreSQL, MySQL, MongoDB |
-| **API Development** | REST, microservices architecture |
-| **Monitoring & Observability** | Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Nagios |
-| **CMS & Web** | WordPress, PHP, HTML/CSS, VitePress, WCAG/ARIA Accessibility |
-| **Performance & Scalability** | System tuning, load balancing, multi region deployments, auto scaling right sizing |
-| **Agile Development** | Sprint planning, iterative development, cross functional collaboration |
-| **AI Assisted Development** | Claude, GitHub Copilot, used for accelerated coding, optimization, and website design |
+Skills are grouped by depth of hands-on use, so it's clear where I've worked most.
+
+- **Proficient:** used heavily in production and comfortable going deep
+- **Working knowledge:** used on real client projects, can build, operate, and troubleshoot
+- **Familiar:** set up or used on specific projects
+
+| Area | Proficient | Working knowledge | Familiar |
+|---|---|---|---|
+| **Cloud (AWS)** | EC2, S3, RDS, Route 53, Lightsail, IAM, VPC, Elastic Beanstalk, Auto Scaling | | Lambda, Cognito |
+| **Infrastructure as Code** | Terraform, Ansible | | |
+| **Containers & Orchestration** | Docker | Kubernetes, Helm | |
+| **CI/CD** | Jenkins, Docker based pipelines | | |
+| **Linux & Web Servers** | Linux, NGINX, Bash | | |
+| **Monitoring & Observability** | | Prometheus, Grafana | ELK Stack, Nagios |
+| **Messaging** | | RabbitMQ | |
+| **Frontend** | React.js, Next.js, JavaScript, TypeScript, HTML/CSS | Redux, Tailwind CSS | |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, Microservices | Java Spring Boot, Python, Jinja | Hibernate |
+| **Databases** | PostgreSQL, MongoDB | MySQL | |
+| **Desktop & Offline First** | | Electron.js, local first data sync | |
+| **CMS & Web** | WordPress, PHP | VitePress, WCAG/ARIA Accessibility | |
+| **Version Control** | Git, GitHub, Bitbucket | | |
+| **AI Assisted Development** | Claude, GitHub Copilot | | |
+
+**Practices:** cost optimization and right sizing, zero downtime migrations, multi region deployments, load balancing, single and multi tenant architecture, Agile sprint delivery, cross functional collaboration.
 
 ### Soft Skills
 
