@@ -1,6 +1,6 @@
 # Hi, I'm Shibin Raju Mathew 👋
 
-Founder & Principal Engineer at **[Vveeo](https://vveeo.com)** | Full Stack & DevOps Engineer | 8+ years | AWS, Kubernetes, Terraform, ERP & Cloud Migrations
+Founder & Lead Engineer at **[Vveeo](https://vveeo.com)** | Full Stack & DevOps Engineer | 8+ years | AWS, Kubernetes, Terraform, ERP & Cloud Migrations
 
 📍 **Location:** Kerala, India &nbsp;|&nbsp; 
 📫 **Email:** shibinrajumathew@yahoo.com &nbsp;|&nbsp; 📱 **+91-9048620781**
@@ -12,7 +12,7 @@ Founder & Principal Engineer at **[Vveeo](https://vveeo.com)** | Full Stack & De
 
 1. [About Me](#about-me)
 2. [Experience](#experience)
-   - [Founder & Principal Engineer, Vveeo (Mar 2022 to Present)](#founder--principal-engineer-vveeo-mar-2022-to-present)
+   - [Founder & Lead Engineer, Vveeo (Mar 2022 to Present)](#founder--lead-engineer-vveeo-mar-2022-to-present)
    - [Independent Software Consultant (Nov 2019 to Feb 2022)](#independent-software-consultant-nov-2019-to-feb-2022)
    - [Mozanta Technologies (2018 to 2019)](#mozanta-technologies-2018-to-2019)
 3. [Skills & Technologies](#skills--technologies)
@@ -39,7 +39,7 @@ Before going independent, I worked full time at Mozanta Technologies, building b
 
 ## Experience
 
-### Founder & Principal Engineer, Vveeo (Mar 2022 to Present)
+### Founder & Lead Engineer, Vveeo (Mar 2022 to Present)
 **[vveeo.com](https://vveeo.com) | Registered MSME (Udyam) | Remote | Clients in Middle East, USA, India**
 
 I founded Vveeo to formalize my consulting practice into a registered technology firm. I lead every engagement as the primary technical point of contact for client stakeholders, translating business requirements into working solutions across ERP, cloud infrastructure, DevOps, and web platforms.
