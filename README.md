@@ -1,6 +1,6 @@
 # Hi, I'm Shibin Raju Mathew 👋
 
-Founder & Lead Engineer at **[Vveeo](https://vveeo.com)** | Full Stack & DevOps Engineer | 8+ years | AWS, Kubernetes, Terraform, ERP & Cloud Migrations
+Lead Software Engineer / Engineering Consultant, at **[Vveeo](https://vveeo.com)** | Full Stack & DevOps Engineer | 8+ years | AWS, Kubernetes, Terraform, ERP & Cloud Migrations
 
 📍 **Location:** Kerala, India &nbsp;|&nbsp; 
 📫 **Email:** shibinrajumathew@yahoo.com &nbsp;|&nbsp; 📱 **+91-9048620781**
@@ -39,7 +39,7 @@ Before going independent, I worked full time at Mozanta Technologies, building b
 
 ## Experience
 
-### Founder & Lead Engineer, Vveeo (Mar 2022 to Present)
+### Lead Software Engineer / Engineering Consultant, (Mar 2022 to Present)
 **[vveeo.com](https://vveeo.com) | Registered MSME (Udyam) | Remote | Clients in Middle East, USA, India**
 
 I founded Vveeo to formalize my consulting practice into a registered technology firm. I lead every engagement as the primary technical point of contact for client stakeholders, translating business requirements into working solutions across ERP, cloud infrastructure, DevOps, and web platforms.
