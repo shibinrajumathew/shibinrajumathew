@@ -12,7 +12,7 @@ Lead Software Engineer / Engineering Consultant, at **[Vveeo](https://vveeo.com)
 
 1. [About Me](#about-me)
 2. [Experience](#experience)
-   - [Founder & Lead Engineer, Vveeo (Mar 2022 to Present)](#founder--lead-engineer-vveeo-mar-2022-to-present)
+   - [Lead Software Engineer / Engineering Consultant)](#lead-software-engineer--engineering-consultant-mar-2022-to-present)
    - [Independent Software Consultant (Nov 2019 to Feb 2022)](#independent-software-consultant-nov-2019-to-feb-2022)
    - [Mozanta Technologies (2018 to 2019)](#mozanta-technologies-2018-to-2019)
 3. [Skills & Technologies](#skills--technologies)
