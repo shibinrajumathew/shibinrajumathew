@@ -31,7 +31,7 @@ Before going independent, I worked full time at Mozanta Technologies, building b
 
 **Career highlights:**
 - Delivered ERP solutions for 12 retail clients across the Middle East, maintaining 99% uptime
-- Migrated a 5 microservice production platform across AWS regions with zero downtime
+- Migrated microservice production platform across AWS regions with zero downtime
 - Right sized over provisioned cloud infrastructure, cutting a client's monthly costs by about 30%
 - Led a 6 person team to deliver an offline first desktop application on a 3 month deadline
 
@@ -66,7 +66,7 @@ I founded Vveeo to formalize my consulting practice into a registered technology
 **Real Estate Platform, AWS Migration** *(Apr 2023 to Sep 2024)*
 - Implemented multi provider social login for user onboarding and migrated image storage to AWS S3
 - Reverse engineered an undocumented application ahead of a full infrastructure migration
-- Migrated 5 microservices across SIT, UAT, and Production environments to a new AWS region with zero downtime
+- Migrated microservices across SIT, UAT, and Production environments to a new AWS region with zero downtime
 - Containerized services with Docker and Kubernetes, and configured RabbitMQ for async messaging
 - Built Jenkins CI/CD pipelines (GitHub to build to test to deploy)
 - Identified severe infrastructure over provisioning (Elastic Beanstalk scaling 3 to 20 instances under low load) and right sized it to a max of 6, cutting monthly infra cost by about 30%
